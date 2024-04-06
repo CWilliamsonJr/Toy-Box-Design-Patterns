@@ -1,0 +1,8 @@
+Sure! The Chain of Responsibility design pattern is a behavioral design pattern that helps in achieving loose coupling in software systems. 
+It allows a request to be passed along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.
+
+Here's an explanation suitable for a 5-year-old:
+
+Imagine you have a line of toys in a toy box. 
+Each toy has a specific job to do. When you want something done, you pass your request to the first toy. If that toy can't do it, it passes the request to the next toy in line. 
+This keeps happening until a toy can do what you asked for, or until there are no more toys left.
